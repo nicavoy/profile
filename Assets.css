@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Lorem_Ipsum {
+  font-size: 48px;
+  font-family: "Arial";
+  color: rgb(243, 178, 0);
+  line-height: 1.2;
+  position: absolute;
+  left: 158px;
+  top: 851.02px;
+  z-index: 10;
+}
+.Back_png {
+  background-image: url("dream-assets/Back.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1080px;
+  height: 2220px;
+  z-index: 2;
+}
+.central_png {
+  background-image: url("dream-assets/central.png");
+  position: absolute;
+  left: 200px;
+  top: 413px;
+  width: 706px;
+  height: 811px;
+  z-index: 3;
+}
+.boton6_png {
+  background-image: url("dream-assets/boton6.png");
+  position: absolute;
+  left: 182px;
+  top: 1068px;
+  width: 259px;
+  height: 264px;
+  z-index: 4;
+}
+.boton5_png {
+  background-image: url("dream-assets/boton5.png");
+  position: absolute;
+  left: 374px;
+  top: 1258px;
+  width: 346px;
+  height: 353px;
+  z-index: 5;
+}
+.boton4_png {
+  background-image: url("dream-assets/boton4.png");
+  position: absolute;
+  left: 652px;
+  top: 1067px;
+  width: 269px;
+  height: 262px;
+  z-index: 6;
+}
+.boton3_png {
+  background-image: url("dream-assets/boton3.png");
+  position: absolute;
+  left: 724px;
+  top: 302px;
+  width: 278px;
+  height: 262px;
+  z-index: 7;
+}
+.boton2_png {
+  background-image: url("dream-assets/boton2.png");
+  position: absolute;
+  left: 158px;
+  top: 246px;
+  width: 273px;
+  height: 300px;
+  z-index: 8;
+}
+.bonton1_png {
+  background-image: url("dream-assets/bonton1.png");
+  position: absolute;
+  left: 361px;
+  top: 27px;
+  width: 283px;
+  height: 286px;
+  z-index: 9;
+}
